@@ -16,6 +16,10 @@ Youtube：波仔分享
 
 脚本安装命令
 
-curl -O https://raw.githubusercontent.com/menduo/trojan-installer/master/Trojan.sh && chmod  x trojan.sh && ./trojan.sh
+```bash
+curl -O https://raw.githubusercontent.com/menduo/trojan-installer/master/Trojan.sh && chmod +x Trojan.sh && ./Trojan.sh
+```
 
+```bash
 wget --no-check-certificate https://raw.githubusercontent.com/menduo/trojan-installer/master/Trojan.sh && chmod +x Trojan.sh && ./Trojan.sh
+```
